@@ -5,9 +5,9 @@
 
 	<groupId>weforward.train</groupId>
 	<artifactId>hlc_wf_product</artifactId>
-	<version>1.0.3.877721</version>
+	<version>1.0.4.878070</version>
 
-	<name>weforward-product</name>
+	<name>hlc_wf_product</name>
 	<url>http://weforward.cn</url>
 	
 	<scm>
@@ -50,7 +50,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>weforward-product</finalName>
+		<finalName>hlc_wf_product</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
