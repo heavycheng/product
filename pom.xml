@@ -3,9 +3,9 @@
 
 	<packaging>jar</packaging>
 
-	<groupId>cn.weforward</groupId>
-	<artifactId>weforward-product</artifactId>
-	<version>1.0.2.876941M</version>
+	<groupId>weforward.train</groupId>
+	<artifactId>hlc_wf_product</artifactId>
+	<version>1.0.3.877721</version>
 
 	<name>weforward-product</name>
 	<url>http://weforward.cn</url>
